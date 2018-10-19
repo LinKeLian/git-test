@@ -3,7 +3,8 @@
   <groupId>git-test</groupId>
   <artifactId>p3</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+  <name>git的测试项目</name>
   <!--  体积哦啊-->
+  
   
 </project>
